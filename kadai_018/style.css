@@ -31,7 +31,7 @@
   top: 100px;
   left: 100px;
 } 
-#middle-child02, #middle-child03 {
+#middle-child02{
   width: 200px;
   height: 200px;
   background-color: #87ceeb;
